@@ -7,7 +7,7 @@
 | #       | *Hash* |
 |!        | *Explanation mark*|
 | *       |  *Asterisk*(or)*Star*|
-| ()      | *Parentheses (or) *Round Brackets*|
+| ()      | *Parentheses* (or) *Round Brackets*|
 | []      |  *Square Brackets*|
 | {}      |  *Curly Brace* (or) *Flower Brackets* |
 | /       |  *Forward Slash*|
@@ -25,7 +25,7 @@
 | _      |    *Underscope*   |
 |  -     |    *Hyphon* (or) *Dash* (or) *Minus*|
 |   |    |    *Pipe*        |
-| .      |     *Dot* (or)       |
+| .      |     *Dot*       |
 |  ?     |     *Question Mark* |
 |  &     |    *Ampersand* (or) *And* |
 | %      |    *Prcentage*|
